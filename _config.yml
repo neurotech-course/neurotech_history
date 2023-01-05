@@ -17,7 +17,7 @@ personal_site:
 periods:
   - name: Magnetic Resonance Imaging (MRI)
     events:
-    - 1938: "Isidor Isaac Rabi first detects the phenomenon of nuclear magnetic resonance (NMR), the underlying principles used in MRI,
+    - 1938: "<b>Isidor Isaac Rabi</b> first detects the phenomenon of nuclear magnetic resonance (NMR), the underlying principles used in MRI,
     in a beam of lithium chloride through a complex experimental procedure."
     - 1946: "Felix Bloch & Edward Mills Purcell extend the work done by Rabi by developing new methods for obtaining precise measurements
     from nuclear magnetization in solids and liquids. Bloch & Purcell shared the Nobel Prize in Physics for this work in 1952."
