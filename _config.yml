@@ -1,29 +1,44 @@
 # Title of the page
 title: "Brief History of Neurotechnology"
 # Your name
-author: Neil Gupta
+author: Jake Hamilton
 # Show a link to LinkedIn in the header intro. Comment out to disable.
-linkedin: https://www.linkedin.com/in/guptaneil/
+linkedin: https://www.linkedin.com/company/neurotechmc/about/
 # Show a link at the top of your timeline to your main personal site
 # Comment this out to disable
 personal_site:
-  url: https://neil.gg
-  title: neil.gg
+  url: https://neurotechmicrocreds.com/
+  #title: neil.gg
 # show today marker at end of timeline
-show_today: true
+#show_today: true
 
 # Your timeline is split into periods (e.g., decades, childhood/teens/adult, "Before Timeliner"/"After Timeliner", etc)
 # Each period has a list of events formatted as `- date: title`. If you don't want to have period dividers, leave out the name field.
 periods:
-  - events:
-    - October 1990: "👶 Neil is born in Michigan."
-    - December 1990: "✈️ Neil moves to California."
-    - August 1994: "👶 Neil's sister, Nandini, is born."
-    - February 1995: "💩 Neil splatters poop on his walls while swinging a garbage bag with a dirty diaper. This is his first physics lesson."
-    - December 1997: "🏠 Neil moves to a new home on Christmas. It's 100% less shitty than the last one."
-    - July 1998: "🎬 Neil directs his first action movie using a VHS camcorder and PowerMac 8500."
-    - March 1999: "🕶 The Matrix is released. Neil has to clarify his name isn't Neo for the rest of the decade."
-    - June 1999: "🔥 Neil's internet connection is upgraded from dial-up to 6mbps DSL. He starts tinkering with web development. And Napster."
+  - name: Magnetic Resonance Imaging (MRI)
+    events:
+    - 1938: "Isidor Isaac Rabi first detects the phenomenon of nuclear magnetic resonance (NMR), the underlying principles used in MRI,
+    in a beam of lithium chloride through a complex experimental procedure."
+    - 1946: "Felix Bloch & Edward Mills Purcell extend the work done by Rabi by developing new methods for obtaining precise measurements
+    from nuclear magnetization in solids and liquids. Bloch & Purcell shared the Nobel Prize in Physics for this work in 1952."
+    - 1971: "Raymond Damadian shows MR relaxation time could be used to distinguish cancer from healthy tissue, being the first to identify 
+    the clinical use of NMR."
+    - 1973: "Paul C. Lauterbur develops the theory for MRI by proposing the use of magnetic field gradients to encode spatial information 
+    from the NMR signal. He recieved the Nobel Prize in Physiology or Medicine in 2003 jointly with Peter Mansfield."
+    - 1974: "Damadian designs and builds the first full-body MRI machine, called 'Indomitable'."
+    - 1977: "Damadian, Larry Minkoff, and Michael Goldsmith perform the first MRI scan on a live animal to visualize a tumour, 
+    and MRI body scan of a human."
+    - 1977: "Peter Mansfield invents an MRI acquisition method that makes scan times suitable for clinical use, called echo planar imaging (EPI). 
+    He recieved the Nobel Prize in Physiology or Medicine in 2003 jointly with Lauterbur."
+    - 1978: "Damadian found FONAR corporation, which produced the first commercially available MRI machine in 1980."
+    - 1986-1987: "Charles Dumulin & Howard Hart develop MR angiography, where vasculature can be imaged using MRI. 
+    Additionally, Denis Le Bihan obtained the first diffusion MR images."
+    - 1990: "Seiji Ogawa recognizes deoxyhemoglobin and oxyhemoglobin have different magnetic properties, and discovered the technique that
+    underlies functional MRI (fMRI)."
+    - 2012: "Animal studies are performed using a magnet strength of 21.1 Tesla."
+    - 2019: "For the first time, human studies were performed using a magnet strength of 10.5 Tesla."
+    - 2020: "Hyperfine protable MR imaging system becomes the first FDA approved portable MRI system capable of providing neuroimaging at the 
+    bedside, eliminating the need for patients to be moved to a specialized MR suite."
   - name: 2000's
     events:
     - October 2000: "🎂 Neil turns 10. It's a new millennium."
