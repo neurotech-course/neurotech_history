@@ -52,22 +52,27 @@ periods:
         <a href="https://doi.org/10.1002%2Fmrm.28093" target="_blank" rel="noopener">(Link to original paper)</a>.
     - 2020: "Hyperfine protable MR imaging system becomes the first FDA approved portable MRI system capable of providing neuroimaging at the 
     bedside, eliminating the need for patients to be moved to a specialized MR suite."
-  - name: 2000's
+  - name: X-ray & Computed Tomography (CT)
     events:
-    - October 2000: "🎂 Neil turns 10. It's a new millennium."
-    - August 2002: "🎓 Neil starts middle school."
-    - August 2002: "🧮 Neil gets a TI-83 Plus Silver Edition calculator that he uses to program games in BASIC during class."
-    - September 2002: "🏹 Neil earns his Arrow of Light, graduating from a Cub Scout to Boy Scout."
-    - July 2004: "👨‍💻 Neil launches WebScope.tv, a video sharing platform for his friends because YouTube doesn't exist yet."
-    - August 2004: "🎓 Neil starts high school."
-    - December 2005: "👨‍💻 Neil cofounds Amalgam, an online literary magazine, and builds a NoSQL CMS to power it."
-    - September 2006: "👨‍💻 Neil cofounds Metamorphium Design, a profitable web design business."
-    - May 2007: "👨‍💻 Neil joins a sports social network as developer #1. He works out of a literal garage in Silicon Valley."
-    - August 2007: "📱 Neil gets the first iPhone. People make fun of him for spending $600 on a phone."
-    - August 2008: "✈️ Neil moves to Chicago."
-    - November 2009: >-
-        📷 Neil gets a DSLR camera and picks up <a href="https://photos.neil.gg" target="_blank" rel="noopener"
-        title="See some of my photos">photography as a hobby</a>.
+    - 1895: >-
+        <b>Wilhelm Roentgen</b> finds that cathode rays are able to pass through human tissue and visualize underlying anatomy, 
+        giving rise to clinical X-ray imaging or radiography 
+        <a href="https://www.aps.org/publications/apsnews/200111/history.cfm" target="_blank" rel="noopener">(Link for more details)</a>. 
+        For this work he recieved the Novel Prize in Physics in 1901.
+    - 1913: >-
+        <b>William David Coolidge</b> designs a high vacuum X-ray tube that was a reliable sources of X-rays and could operate at 
+        energies up to 100,000 volts. This work overcame technological issues in previous X-ray tubes that often broke down at high voltages. 
+    - 1917: >-
+        <b> Johann Radon</b> develops the mathematical theory behind CT by showing an object can be reconstructed based on an infinite set
+        of its projections, known as the Radon transform.
+    - 1961: >-
+        <b>William Oldendorf</b> theorizes the ability to scan a head through the use of a transmitted beam of X-rays in conjunction with the 
+        Radon transform, creating an apparatus that has a rotating source and coupled detector that could get X-ray images of various materials.
+    - 1967: >-
+        <b>Godfrey Newbold Jounsfield</b> extends the theory for CT by taking several X-ray images at different angles followed by computer reconstruction,  
+        also inventing the first commercially available CT scanner. For this work he recieved the Nobel Prize in Physiology or Medicine in 1979. 
+    - 1971: >-
+        In London, England, a CT scanner is used clinically to image a women suspected to have a brain tumour.
   - name: 2010's
     events:
     - June 2010: "✈️ Neil spends a summer in Paris for study abroad."
