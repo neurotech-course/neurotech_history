@@ -192,11 +192,17 @@ periods:
         <b>Neuralink</b>, founded by <b>Elon Musk</b>, shows that its BCI chip allows monkeys to lay video games in real-time solely with their thoughts
         <a href="https://www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2" target="_blank" rel="noopener">(Link to read more)</a>.
         <br>
+        <br>
         <b>Willett & Moses</b> separately use BCIs implanted in the motor cortex of paralyzed patients to allow them to communicate 15-18 words per 
         minute. Willett did so by recording from neurons active when thinking about writing words 
         <a href="https://www.nature.com/articles/s41586-021-03506-2" target="_blank" rel="noopener">(Link to paper)</a>, 
         Moses did so by recording from neurons active when thinking about vocalizing words 
         <a href="https://www.nejm.org/doi/10/1056/NEJMoa2027540" target="_blank" rel="noopener">(Link to paper)</a>.
+        <br>
+        <br>
+        <b>Synchron</b> becomes the first company to recieve FDA approval to conduct a clinical trial of a permanently implanted BCI that uses 
+        endovascular electrodes to record/stimulate neurons from within blood vessels
+        <a href="https://synchron.com/technology" target="_blank" rel="noopener">(Learn more)</a>.
     
   - name: General Neuroscience 
     events:
