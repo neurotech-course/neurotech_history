@@ -52,6 +52,7 @@ periods:
         <a href="https://doi.org/10.1002%2Fmrm.28093" target="_blank" rel="noopener">(Link to original paper)</a>.
     - 2020: "Hyperfine protable MR imaging system becomes the first FDA approved portable MRI system capable of providing neuroimaging at the 
     bedside, eliminating the need for patients to be moved to a specialized MR suite."
+    
   - name: X-ray & Computed Tomography (CT)
     events:
     - 1895: >-
@@ -73,10 +74,142 @@ periods:
         also inventing the first commercially available CT scanner. For this work he recieved the Nobel Prize in Physiology or Medicine in 1979. 
     - 1971: >-
         In London, England, a CT scanner is used clinically to image a women suspected to have a brain tumour.
+        
   - name: Electro- & Magneto-encephalogram (EEG & MEG)
+    events:
+    - 1849: >-
+        <b>Hermann von Helmholtz</b> measures the speed at which electrical impulses are conducted along nerve fibres. 
+    - 1875: >-
+        <b>Richard Caton</b> measures electrical phenomena from exposed cerebral hemispheres in monkeys. 
+    - 1924: >-
+        <b>Hans Berger</b> invents the electroencephalogram (EEG) and was the first to record large-scale electrical activity in the brain. 
+        The first EEG trace obtained from a human brain was published in 1929
+        <a href="http://dx.doi.org/10.1136/jnnp.74.1.9" target="_blank" rel="noopener">(Link to read more)</a>. 
+    - 1930s: >-
+        <b>Wilder Penfield</b> develops a technique that obtains EEG recordings directly from pial matter in the brain, now known as 
+        electrocorticography (ECoG).
+    - 1968: >-
+        <b>David Cohen</b> discovers magnetoencephalography (MEG)
+        <a href="https://www.science.org/doi/10.1126/science.161.3843.784" target="_blank" rel="noopener">(Link for original paper)</a>.
+        
   - name: Near-Infrared Spectroscopy (NIRS)
+    events:
+    - 1876: >-
+        <b>Karl von Vierordt</b> observes changes in the spectrum of visible light when it passes through human fingers which were predominated by 
+        either oxy- or deoxy-hemoglobin, being the first to demonstrate the potential for a non-invasive method for monitoring tissue oxygenation. 
+    - 1930's: >-
+        Based on findings from <b>von Vierordt</b>, <b>Kramer & Matthes</b> find that near-infrared light can also be used to determine levels 
+        of oxy- and deoxy-hemoglobin in hman tissue, laying the ground for the discovery of near-infrared spectroscopy (NIRS). 
+    - 1977: >-
+        <b>Frank Jobsis</b>, known as the pioneer of medical applications of NIRS, theorizes the use of near-infrared light to study brain activity 
+        continuously and led to the invention of NIRS
+        <a href="https://www.science.org/doi/10.1126/science.929199" target="_blank" rel="noopener">(Link for original paper)</a>.
+    - 1985: >-
+        The first clinical NIRS studies are conducted on newborns by <b>Jobsis & Brazy</b>
+        <a href="https://doi.org/10.1542/peds.75.2.217" target="_blank" rel="noopener">(Link for original paper)</a>,
+        and adults by <b>Marco Ferrari</b> 
+        <a href="https://pubmed.ncbi.nlm.nih.gov/3008520/" target="_blank" rel="noopener">(Link for original paper)</a>.
+    - 1992: >-
+        Based on the development of fMRI by <b>Seiji Ogawa</b>, studies carried out by <b>Chance, Kato, Hoshi, and Villringer</b> 
+        led to the discovery of functional NIRS (fNIRS). 
+    - 1996: >-
+        <b>Kleinshmidt</b> carries out the first simultaneous recording of brain activation using both fMRI and fNIRS 
+        <a href="https://doi.org/10.1097/00004647-1996090000-00006" target="_blank" rel="noopener">(Link for paper)</a>
+        
   - name: Neuroelectronic Recording & Stimulation 
-  - name: Positron Emission Tomography (PET)
-  - name: Neuroprosthetics 
-  - name: Brain-Computer Interface (BCI)
+    events:
+    - 1963: >-
+        <b>Hodgkin & Huxley</b> become the first to use an electrode to record an action potential in an axon.
+    - 1937: >-
+        Physicians <b>Ugo Carletti & Lucio Bini</b> develop and use electroconvulsive therapy (ECT) that electrically induces a seizure as a 
+        treatment for mental illness. In the following decades, this became overused and resulted in public backlash. 
+    - 1980: >-
+        <b>Merton & Morton</b> develop transcranial electrical stimulation (TES) whereby an electrical current is passed through the skull 
+        to stimulate the cortex of the brain
+        <a href="https://www.nature.com/articles/285227a0" target="_blank" rel="noopener">(Link for original paper)</a>.
+    - 1985: >-
+        <b>Anthony Barker</b> develops transcranial magnetic stimulation (TMS), whereby a changing magnetic field is used to induce current 
+        in a specific region of the brain. 
+    - Late 1980's: >-
+        <b>Alim Benabid</b> discovers electrical stimulation of the basal ganglia improves symptoms of Parkinson's disease, the first use of what 
+        is now known as deep brain stimulation (DBS). 
+    - 1997: >-
+        DBS is approved by the FDA for tremors and Parkinson's disease. DBS is now approved in the treatment of dystonia (2003), 
+        obsessive-compulsive disorder (OCD)(2009), and epilepsy (2018). 
+    - 2008: >-
+        TMS is approved by the FDA for treatment of medication-refractory depression. 
+  
+  - name: Positron Emission Tomography (PET) 
+    events:
+    - 1911: >-
+        <b>George Hevesy</b> demonstrates the use of radioactive isotopes for labelling. For this work he recieved the Nobel Prize in Chemistry in 1943.
+    - 1934: >-
+        <b>Irene & Frederic Joliot-Curie</b> produce an artificial isotope that could be formed and made safe for humans.
+    - 1950's: >-
+        <b>Gordon Brownell & William Sweet</b> invent and demonstrate the first large-scale use of a positron imaging device, with <b>Brownell</b>
+        going on to develop the first positron emission tomography (PET) imaging device in 1972.
+    - 1976: >-
+        <b>Louis Sokoloff, Alfred Wolf, and Joanna Fowler</b> synthesize 2-[<sup>18</sup>F]fluoro-2-deoxy-D-glucose (FDG), which is used to 
+        measure cerebral glucose utilization and is still widely used for PET imaging today. 
+       
+  - name: Brain-Computer Interface (BCI)/Neuroprostheses
+    events:
+    - 1875: >-
+        <b>Richard Caton</b> records the first ever electrical activity in the brain of living rabbits. 
+    - 1924: >-
+        <b>Hans Berger</b> first measures EEG signals and leads to the identification of alpha and beta brain waves. This discovery was a 
+        preclude to the development of brain-computer interfaces (BCIs). 
+    - 1969: >-
+        <b>Eberhard Fetz</b> conducts an experiment where he shows monkeys can control the deflection of a meter ar through consciously 
+        controlling the firing rate of their cortical neurons, being the first to show what is now known as 'neurofeedback'
+        <a href="https://www.science.org/doi/abs/10.1126/science.163.3870.955" target="_blank" rel="noopener">(Link for original paper)</a>.
+    - 1973: >-
+        <b>Jacques Vidal</b> coins the term 'BCI' and produces the first academic papers on the topic
+        <a href="https://www.annualreviews.org/doi/10.1146/annurev.bb.02.060173.001105" target="_blank" rel="noopener">(1</a>,
+        <a href="https://ieeexplore.ieee.org/document/1454811" target="_blank" rel="noopener">2)</a>. 
+        He is now regarded as the inventor of BCI's.
+    - 1978: >-
+        <b>William Dobelle</b> implants a single-array BCI into a man with adulthood blindness that when accompanied with the use of specialized glasses, 
+        allowed the man to see shades of grey within a limited field-of-vision
+        <a href="https://www.wired.com/2022/09/vision/" target="_blank" rel="noopener">(Read more)</a>. 
+    - 1988: >-
+        <b>Philip Kennedy</b> builds the first intra-cortical BCI in monkeys by implanting neurotrophic-cone electrodes. He continued this work 
+        in humans and even used himself as a test subject for BCI implantation
+        <a href="https://www.wired.com/2016/01/phil-kennedy-mind-control-computer/" target="_blank" rel="noopener">(Read more</a>,
+        <a href="https://youtube.com/watch?v=SSFugxgtimc" target="_blank" rel="noopener">Interview)</a>. 
+    - 1998: >-
+        <b>Kennedy & Bakay</b> become the first to implant a BCI in the human brain. The patient suffered from 'locked-in syndrome' and in the years
+        following implant surgery he was able to control a computer cursor using his thoughts
+        <a href="https://journals.lww.com/neuroreport/Fulltext/1998/06010/Restoration_of_neural_output_from_a_paralyzed.7.aspx" target="_blank" rel="noopener">(Read more)</a>
+    - 1999-2000: >-
+        <b>Miguel Nicolelis</b> develops and implants a BCI which decodes brain activity in monkeys allowing them to controla robotic arm through thought, 
+        being the first to accurately predict movement through recording of neuron ensembles 
+        <a href="https://www.nature.com/articles/35042582" target="_blank" rel="noopener">(Link for original paper)</a>. 
+    - 2006: >-
+        <b>Hochberg</b> reports on the first person with tetraplegia being able to control an artificial hand using an implanted BCI
+        <a href="https://www.nature.com/articles/nature04970" target="_blank" rel="noopener">(Link for original paper)</a>. 
+    - 2021: >-
+        <b>Neuralink</b>, founded by <b>Elon Musk</b>, shows that its BCI chip allows monkeys to lay video games in real-time solely with their thoughts
+        <a href="https://www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2" target="_blank" rel="noopener">(Link to read more)</a>.
+        <br>
+        <b>Willett & Moses</b> separately use BCIs implanted in the motor cortex of paralyzed patients to allow them to communicate 15-18 words per 
+        minute. Willett did so by recording from neurons active when thinking about writing words 
+        <a href="https://www.nature.com/articles/s41586-021-03506-2" target="_blank" rel="noopener">(Link to paper)</a>, 
+        Moses did so by recording from neurons active when thinking about vocalizing words 
+        <a href="https://www.nejm.org/doi/10/1056/NEJMoa2027540" target="_blank" rel="noopener">(Link to paper)</a>.
+    
   - name: General Neuroscience 
+    events:
+    - Before Christ (BC): >-
+        Both <b>Herophilus & Galan</b> proposed the brain was the control center of the body and cognition, although they incorrectly believed this was 
+        the responsibility of the ventricular system specifically.
+    - 1860's: >-
+        <b>Paul Broca</b> is the first to make progress in the theory of cerebral localization, the belief that different aspects of cognition 
+        are localized to certain regions of the brain. This work marked the onset of carefully studying deficits in patients with brain damage 
+        of specific regions to determine the regions function. 
+    - 1906: >-
+        <B>Ramon y Cajal</b>, known as 'The father of Modern Neuroscience', discovers an imaging method called Golgi staining where he found that 
+        neurons are the structural units that make up the brain and they are separated by small junctions called synapses through which they
+        directionally communicate with other neurons. Based on this work, Cajal and Sherrington were the first to vocalize the 'neuron doctrine', stating 
+        the neuron is the structural and functional unit of the nervous system 
+        <a href="https://www.nature.com/articles/nrn3962#MOESM9" target="_blank" rel="noopener">(Link for review paper)</a>. 
