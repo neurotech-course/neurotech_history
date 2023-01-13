@@ -40,7 +40,7 @@ periods:
         <b>Peter Mansfield</b> invents an MRI acquisition method that makes scan times suitable for clinical use, called echo planar imaging (EPI)
         <a href="https://iopscience.iop.org/article/10.1088/0022-3719/10/3/004" target="_blank" rel="noopener">(Link to original paper)</a>. 
         He recieved the Nobel Prize in Physiology or Medicine in 2003 jointly with <b>Lauterbur</b>.
-    - 1978: "<b>Damadian</b> found FONAR corporation, which produced the first commercially available MRI machine in 1980."
+    - 1978: "<b>Damadian</b> founds FONAR corporation, which produced the first commercially available MRI machine in 1980."
     - 1986-1987: "<b>Charles Dumulin</b> & <b>Howard Hart</b> develop MR angiography, where vasculature can be imaged using MRI. 
     Additionally, <b>Denis Le Bihan</b> obtained the first diffusion MR images."
     - 1990: >-
@@ -51,8 +51,10 @@ periods:
     - 2019: >-
         For the first time, human studies were performed using a magnet strength of 10.5 Tesla
         <a href="https://doi.org/10.1002%2Fmrm.28093" target="_blank" rel="noopener">(Link to original paper)</a>.
-    - 2020: "Hyperfine protable MR imaging system becomes the first FDA approved portable MRI system capable of providing neuroimaging at the 
-    bedside, eliminating the need for patients to be moved to a specialized MR suite."
+    - 2020: >-
+        <a href="https://hyperfine.io/" target="_blank" rel="noopener">Hyperfine</a>'s 
+        portable MR imaging system becomes the first FDA approved portable MRI system capable of providing neuroimaging at the 
+        bedside, eliminating the need for patients to be moved to a specialized MR suite.
     
   - name: X-ray & Computed Tomography (CT)
     events:
@@ -71,7 +73,7 @@ periods:
         <b>William Oldendorf</b> theorizes the ability to scan a head through the use of a transmitted beam of X-rays in conjunction with the 
         Radon transform, creating an apparatus that has a rotating source and coupled detector that could get X-ray images of various materials.
     - 1967: >-
-        <b>Godfrey Newbold Jounsfield</b> extends the theory for CT by taking several X-ray images at different angles followed by computer reconstruction,  
+        <b>Godfrey Newbold Hounsfield</b> extends the theory for CT by taking several X-ray images at different angles followed by computer reconstruction,  
         also inventing the first commercially available CT scanner. For this work he recieved the Nobel Prize in Physiology or Medicine in 1979. 
     - 1971: >-
         In London, England, a CT scanner is used clinically to image a women suspected to have a brain tumour.
@@ -100,7 +102,7 @@ periods:
         either oxy- or deoxy-hemoglobin, being the first to demonstrate the potential for a non-invasive method for monitoring tissue oxygenation. 
     - 1930-1939: >-
         Based on findings from <b>von Vierordt</b>, <b>Kramer & Matthes</b> find that near-infrared light can also be used to determine levels 
-        of oxy- and deoxy-hemoglobin in hman tissue, laying the ground for the discovery of near-infrared spectroscopy (NIRS). 
+        of oxy- and deoxy-hemoglobin in human tissue, laying the ground for the discovery of near-infrared spectroscopy (NIRS). 
     - 1977: >-
         <b>Frank Jobsis</b>, known as the pioneer of medical applications of NIRS, theorizes the use of near-infrared light to study brain activity 
         continuously and led to the invention of NIRS
@@ -153,15 +155,20 @@ periods:
         <b>Louis Sokoloff, Alfred Wolf, and Joanna Fowler</b> synthesize 2-[<sup>18</sup>F]fluoro-2-deoxy-D-glucose (FDG), which is used to 
         measure cerebral glucose utilization and is still widely used for PET imaging today. 
        
-  - name: Brain-Computer Interface (BCI)/Neuroprostheses
+  - name: Brain-Computer Interfaces (BCI)
     events:
     - 1875: >-
         <b>Richard Caton</b> records the first ever electrical activity in the brain of living rabbits. 
     - 1924: >-
         <b>Hans Berger</b> first measures EEG signals and leads to the identification of alpha and beta brain waves. This discovery was a 
         preclude to the development of brain-computer interfaces (BCIs). 
+    - 1965: >-
+        <b>Jose Delgada</b> implants his 'stimoceiver' in a bull's brain and shows that by sending a radio signal to this device, he can stop the bull
+        from charging at him. Watch this
+        <a href="https://www.youtube.com/watch?v=S051A8doXP0" target="_blank" rel="noopener">video</a>
+        to learn more about this wild demonstration.
     - 1969: >-
-        <b>Eberhard Fetz</b> conducts an experiment where he shows monkeys can control the deflection of a meter ar through consciously 
+        <b>Eberhard Fetz</b> conducts an experiment where he shows monkeys can control the deflection of a meter arm through consciously 
         controlling the firing rate of their cortical neurons, being the first to show what is now known as 'neurofeedback'
         <a href="https://www.science.org/doi/abs/10.1126/science.163.3870.955" target="_blank" rel="noopener">(Link for original paper)</a>.
     - 1973: >-
@@ -183,14 +190,14 @@ periods:
         following implant surgery he was able to control a computer cursor using his thoughts
         <a href="https://journals.lww.com/neuroreport/Fulltext/1998/06010/Restoration_of_neural_output_from_a_paralyzed.7.aspx" target="_blank" rel="noopener">(Read more)</a>
     - 1999-2000: >-
-        <b>Miguel Nicolelis</b> develops and implants a BCI which decodes brain activity in monkeys allowing them to controla robotic arm through thought, 
+        <b>Miguel Nicolelis</b> develops and implants a BCI which decodes brain activity in monkeys allowing them to control a robotic arm through thought, 
         being the first to accurately predict movement through recording of neuron ensembles 
         <a href="https://www.nature.com/articles/35042582" target="_blank" rel="noopener">(Link for original paper)</a>. 
     - 2006: >-
         <b>Hochberg</b> reports on the first person with tetraplegia being able to control an artificial hand using an implanted BCI
         <a href="https://www.nature.com/articles/nature04970" target="_blank" rel="noopener">(Link for original paper)</a>. 
     - 2021: >-
-        <b>Neuralink</b>, founded by <b>Elon Musk</b>, shows that its BCI chip allows monkeys to lay video games in real-time solely with their thoughts
+        <b>Neuralink</b>, founded by <b>Elon Musk</b>, shows that its BCI chip allows monkeys to play video games in real-time solely with their thoughts
         <a href="https://www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2" target="_blank" rel="noopener">(Link to read more)</a>.
         <br>
         <br>
@@ -208,15 +215,15 @@ periods:
   - name: General Neuroscience 
     events:
     - Before Christ (BC): >-
-        Both <b>Herophilus & Galan</b> proposed the brain was the control center of the body and cognition, although they incorrectly believed this was 
+        Both <b>Herophilus & Galan</b> propose the brain as the control center of the body and cognition, although they incorrectly believed this was 
         the responsibility of the ventricular system specifically.
     - 1860-1865: >-
         <b>Paul Broca</b> is the first to make progress in the theory of cerebral localization, the belief that different aspects of cognition 
         are localized to certain regions of the brain. This work marked the onset of carefully studying deficits in patients with brain damage 
         of specific regions to determine the regions function. 
     - 1906: >-
-        <B>Ramon y Cajal</b>, known as 'The father of Modern Neuroscience', discovers an imaging method called Golgi staining where he found that 
-        neurons are the structural units that make up the brain and they are separated by small junctions called synapses through which they
+        <B>Ramon y Cajal</b>, known as 'The father of Modern Neuroscience', discovers an imaging method called Golgi staining using which he discovered 
+        that neurons are the structural units that make up the brain and they are separated by small junctions called synapses through which they
         directionally communicate with other neurons. Based on this work, Cajal and Sherrington were the first to vocalize the 'neuron doctrine', stating 
         the neuron is the structural and functional unit of the nervous system 
         <a href="https://www.nature.com/articles/nrn3962#MOESM9" target="_blank" rel="noopener">(Link for review paper)</a>. 
