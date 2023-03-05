@@ -40,7 +40,9 @@ periods:
         <b>Peter Mansfield</b> invents an MRI acquisition method that makes scan times suitable for clinical use, called echo planar imaging (EPI)
         <a href="https://iopscience.iop.org/article/10.1088/0022-3719/10/3/004" target="_blank" rel="noopener">(Link to original paper)</a>. 
         He recieved the Nobel Prize in Physiology or Medicine in 2003 jointly with <b>Lauterbur</b>.
-    - 1978: "<b>Damadian</b> founds FONAR corporation, which produced the first commercially available MRI machine in 1980."
+    - 1978: >-
+    <b>Damadian</b> founds FONAR corporation, which produced the first commercially available MRI machine in 1980
+    <a href="https://www.starimagingindia.com/blog/history-of-the-mri-machine/" target="_blank" rel="noopener">(Summary article)</a>.    
     - 1986-1987: "<b>Charles Dumulin</b> & <b>Howard Hart</b> develop MR angiography, where vasculature can be imaged using MRI. 
     Additionally, <b>Denis Le Bihan</b> obtained the first diffusion MR images."
     - 1990: >-
